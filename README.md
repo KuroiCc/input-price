@@ -1,1 +1,1 @@
-A High school homework of format number.
+A High school homework of formatting number.
